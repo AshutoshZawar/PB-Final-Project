@@ -1,5 +1,7 @@
 const catchAsyncErrors = require("../middleware/catchAsyncErrors");
-const ExpenceModel = require("../models/ExpenceModel");
+const ExpenceModel = require('../models/ExpenceModel');
+//const ExpenceModel = require("../models/expenceModel");
+//const ExpenceModel = require("../models/ExpenceModel");
 const incomeModel = require("../models/incomeModel");
 const randomColor = require("randomcolor");
 
